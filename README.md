@@ -1,4 +1,4 @@
-# <Code-refactor>
+# Code-refactor
 
 ## Description
 
